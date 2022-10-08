@@ -1,0 +1,11 @@
+{
+  "name": "roombooking",
+  "version": "1.0.0",
+  "description": "Booking Booking Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vimal Thapliyal",
+  "license": "ISC"
+}
